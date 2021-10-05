@@ -1,0 +1,35 @@
+
+
+.city{
+	background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+	color:white;
+	border:2px solid black;
+	margin:20px;
+	padding: 20px;
+}
+.dotted{
+	background-color: green;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	border-style: dotted;
+	border-color: red;
+	border-width: 10px;
+}
+#margin{
+ background-color:lightblue;
+ margin: 100px 100px 40px 50px;
+ padding: 25px;
+ border-style: dashed;
+ border-color: black;
+ font-size:35px;
+}
+
+.box{
+	background-color: lightgrey;
+	width: 300px;
+	padding: 50px;
+	margin:20px;
+	border: 15px solid green;
+	font-size: 15px;
+}
